@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+
+file_index.pkl
+search_results.txt
